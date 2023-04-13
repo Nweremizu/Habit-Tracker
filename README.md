@@ -14,6 +14,8 @@ This is a GUI-based Habit Tracker App implemented in Python, which uses the Pixe
 
 # Instructions
 
+- Check the Download info file for full download of application.
+
 - Firstly, Launch the Habit Tracker.exe file and choose where to extract ur habit tracker zip. Make to launch from the exe file.
 
 - Then go to desktop and search for Habit_Tracker and Launch.
